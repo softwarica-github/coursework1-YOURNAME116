@@ -4,7 +4,6 @@ import threading
 import socket
 import concurrent.futures
 
-
 class PortScannerGUI:
     def __init__(self, root):
         self.root = root
